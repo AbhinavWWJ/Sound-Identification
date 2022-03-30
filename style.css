@@ -1,0 +1,33 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background:rgb(12, 201, 154);
+}
+.header_div{
+    background:rgb(51, 153, 119);
+    color:rgb(25, 64, 240);
+}
+.header_div p{
+font-family: 'Moo Lah Lah', cursive;
+color: azure;
+ letter-spacing: 2px;
+ font-size: 15px;
+ font-weight: bold;
+}
+.main_div button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:rgb(5, 255, 201);
+    width:100%;
+    font-size: 18px;
+    background-color: rgb(221, 221, 221);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(49, 117, 243);
+    bottom: 0;
+}
